@@ -6,7 +6,7 @@ AtlasForge can browse game assets, preview WMO/M2 models, edit ADT tile placemen
 
 ## Latest Release
 
-**AtlasForge `0.1.0-beta`**
+**AtlasForge `0.2.1-beta`**
 
 This is the first public/community beta release. It is beta software, so please back up your client patch files and test small edits first.
 
